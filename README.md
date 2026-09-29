@@ -8,9 +8,10 @@
 
 面向 **Windows 与 Linux** 的本地音乐播放器，基于 Compose Multiplatform（JVM）。需要 **JDK 21** 或更新版本。
 
-![](C:/Users/RHP/AppData/Roaming/marktext/images/2026-09-29-22-10-11-image.png)
+<img width="1902" height="1221" alt="image" src="https://github.com/user-attachments/assets/3514ccfa-9241-427f-85f5-47791380079f" />
 
-![](C:/Users/RHP/AppData/Roaming/marktext/images/2026-09-29-22-10-34-image.png)
+<img width="1902" height="1221" alt="image" src="https://github.com/user-attachments/assets/fe1ad2b1-e51b-4008-9dd2-35c96836990f" />
+
 
 ## 功能
 
