@@ -1,0 +1,15 @@
+jvm=D:\StudyAndWorking\JDK\bin\javaw.exe
+ffmpeg=H:\_Programming\IDEA\ComposeMultiplatform\ComposeMediaPlayer\third_party\ffmpeg\windows-x64\ffmpeg.exe
+baseline top-level windows=449, console windows=0
+
+[A] plain ProcessBuilder
+  childPid=8672 alive=true
+  console windows now=0, NEW=0
+
+[B] CreateProcessW with CREATE_NO_WINDOW
+  CreateProcessW returned true pid=25236 lastError=0
+  console windows now=0, NEW=0
+  child still running=true
+  descendants of this jvm=[H:\_Programming\IDEA\ComposeMultiplatform\ComposeMediaPlayer\third_party\ffmpeg\windows-x64\ffmpeg.exe, C:\Windows\System32\conhost.exe]
+
+state=DONE

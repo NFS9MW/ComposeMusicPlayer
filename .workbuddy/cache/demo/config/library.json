@@ -1,0 +1,732 @@
+{
+    "playlists": [
+        {
+            "id": "pl-demo",
+            "name": "演示歌单",
+            "songs": [
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/周杰伦 - 稻香.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/周杰伦 - 稻香.mp3",
+                    "title": "稻香",
+                    "artist": "周杰伦",
+                    "album": "魔杰座",
+                    "durationMs": 223000,
+                    "trackNumber": 1
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/周杰伦 - 夜曲.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/周杰伦 - 夜曲.mp3",
+                    "title": "夜曲",
+                    "artist": "周杰伦",
+                    "album": "十一月的萧邦",
+                    "durationMs": 256000,
+                    "trackNumber": 2
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/周杰伦 - 晴天.flac",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/周杰伦 - 晴天.flac",
+                    "title": "晴天",
+                    "artist": "周杰伦",
+                    "album": "叶惠美",
+                    "durationMs": 269000,
+                    "trackNumber": 3
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/周杰伦 - 星晴.m4a",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/周杰伦 - 星晴.m4a",
+                    "title": "星晴",
+                    "artist": "周杰伦",
+                    "album": "范特西",
+                    "durationMs": 251000,
+                    "trackNumber": 4
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/周杰伦 - 七里香.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/周杰伦 - 七里香.mp3",
+                    "title": "七里香",
+                    "artist": "周杰伦",
+                    "album": "七里香",
+                    "durationMs": 299000,
+                    "trackNumber": 5
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Miles Davis - Blue in Green.flac",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Miles Davis - Blue in Green.flac",
+                    "title": "Blue in Green",
+                    "artist": "Miles Davis",
+                    "album": "Kind of Blue",
+                    "durationMs": 327000,
+                    "trackNumber": 6
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Nova - Amber Light.m4a",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Nova - Amber Light.m4a",
+                    "title": "Amber Light",
+                    "artist": "Nova",
+                    "album": "Single",
+                    "durationMs": 214000,
+                    "trackNumber": 7
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Harbour - The Anchor.wav",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Harbour - The Anchor.wav",
+                    "title": "The Anchor",
+                    "artist": "Harbour",
+                    "album": "Tide",
+                    "durationMs": 184000,
+                    "trackNumber": 8
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 01.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 01.mp3",
+                    "title": "Filler 01",
+                    "artist": "Aurora Field",
+                    "album": "Padding 1",
+                    "durationMs": 12000,
+                    "trackNumber": 1
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 02.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 02.mp3",
+                    "title": "Filler 02",
+                    "artist": "Sable",
+                    "album": "Padding 1",
+                    "durationMs": 12000,
+                    "trackNumber": 2
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 03.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 03.mp3",
+                    "title": "Filler 03",
+                    "artist": "Kite Ensemble",
+                    "album": "Padding 1",
+                    "durationMs": 12000,
+                    "trackNumber": 3
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 04.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 04.mp3",
+                    "title": "Filler 04",
+                    "artist": "Mono Lake",
+                    "album": "Padding 1",
+                    "durationMs": 12000,
+                    "trackNumber": 4
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 05.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 05.mp3",
+                    "title": "Filler 05",
+                    "artist": "Vacant Hours",
+                    "album": "Padding 1",
+                    "durationMs": 12000,
+                    "trackNumber": 5
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 06.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 06.mp3",
+                    "title": "Filler 06",
+                    "artist": "Aurora Field",
+                    "album": "Padding 1",
+                    "durationMs": 12000,
+                    "trackNumber": 6
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 07.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 07.mp3",
+                    "title": "Filler 07",
+                    "artist": "Sable",
+                    "album": "Padding 1",
+                    "durationMs": 12000,
+                    "trackNumber": 7
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 08.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 08.mp3",
+                    "title": "Filler 08",
+                    "artist": "Kite Ensemble",
+                    "album": "Padding 1",
+                    "durationMs": 12000,
+                    "trackNumber": 8
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 09.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 09.mp3",
+                    "title": "Filler 09",
+                    "artist": "Mono Lake",
+                    "album": "Padding 1",
+                    "durationMs": 12000,
+                    "trackNumber": 9
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 10.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 10.mp3",
+                    "title": "Filler 10",
+                    "artist": "Vacant Hours",
+                    "album": "Padding 1",
+                    "durationMs": 12000,
+                    "trackNumber": 10
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 11.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 11.mp3",
+                    "title": "Filler 11",
+                    "artist": "Aurora Field",
+                    "album": "Padding 2",
+                    "durationMs": 12000,
+                    "trackNumber": 11
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 12.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 12.mp3",
+                    "title": "Filler 12",
+                    "artist": "Sable",
+                    "album": "Padding 2",
+                    "durationMs": 12000,
+                    "trackNumber": 12
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 13.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 13.mp3",
+                    "title": "Filler 13",
+                    "artist": "Kite Ensemble",
+                    "album": "Padding 2",
+                    "durationMs": 12000,
+                    "trackNumber": 13
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 14.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 14.mp3",
+                    "title": "Filler 14",
+                    "artist": "Mono Lake",
+                    "album": "Padding 2",
+                    "durationMs": 12000,
+                    "trackNumber": 14
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 15.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 15.mp3",
+                    "title": "Filler 15",
+                    "artist": "Vacant Hours",
+                    "album": "Padding 2",
+                    "durationMs": 12000,
+                    "trackNumber": 15
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 16.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 16.mp3",
+                    "title": "Filler 16",
+                    "artist": "Aurora Field",
+                    "album": "Padding 2",
+                    "durationMs": 12000,
+                    "trackNumber": 16
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 17.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 17.mp3",
+                    "title": "Filler 17",
+                    "artist": "Sable",
+                    "album": "Padding 2",
+                    "durationMs": 12000,
+                    "trackNumber": 17
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 18.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 18.mp3",
+                    "title": "Filler 18",
+                    "artist": "Kite Ensemble",
+                    "album": "Padding 2",
+                    "durationMs": 12000,
+                    "trackNumber": 18
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 19.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 19.mp3",
+                    "title": "Filler 19",
+                    "artist": "Mono Lake",
+                    "album": "Padding 2",
+                    "durationMs": 12000,
+                    "trackNumber": 19
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 20.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 20.mp3",
+                    "title": "Filler 20",
+                    "artist": "Vacant Hours",
+                    "album": "Padding 2",
+                    "durationMs": 12000,
+                    "trackNumber": 20
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 21.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 21.mp3",
+                    "title": "Filler 21",
+                    "artist": "Aurora Field",
+                    "album": "Padding 3",
+                    "durationMs": 12000,
+                    "trackNumber": 21
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 22.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 22.mp3",
+                    "title": "Filler 22",
+                    "artist": "Sable",
+                    "album": "Padding 3",
+                    "durationMs": 12000,
+                    "trackNumber": 22
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 23.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 23.mp3",
+                    "title": "Filler 23",
+                    "artist": "Kite Ensemble",
+                    "album": "Padding 3",
+                    "durationMs": 12000,
+                    "trackNumber": 23
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 24.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 24.mp3",
+                    "title": "Filler 24",
+                    "artist": "Mono Lake",
+                    "album": "Padding 3",
+                    "durationMs": 12000,
+                    "trackNumber": 24
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 25.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 25.mp3",
+                    "title": "Filler 25",
+                    "artist": "Vacant Hours",
+                    "album": "Padding 3",
+                    "durationMs": 12000,
+                    "trackNumber": 25
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 26.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 26.mp3",
+                    "title": "Filler 26",
+                    "artist": "Aurora Field",
+                    "album": "Padding 3",
+                    "durationMs": 12000,
+                    "trackNumber": 26
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 27.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 27.mp3",
+                    "title": "Filler 27",
+                    "artist": "Sable",
+                    "album": "Padding 3",
+                    "durationMs": 12000,
+                    "trackNumber": 27
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 28.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 28.mp3",
+                    "title": "Filler 28",
+                    "artist": "Kite Ensemble",
+                    "album": "Padding 3",
+                    "durationMs": 12000,
+                    "trackNumber": 28
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 29.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 29.mp3",
+                    "title": "Filler 29",
+                    "artist": "Mono Lake",
+                    "album": "Padding 3",
+                    "durationMs": 12000,
+                    "trackNumber": 29
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 30.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 30.mp3",
+                    "title": "Filler 30",
+                    "artist": "Vacant Hours",
+                    "album": "Padding 3",
+                    "durationMs": 12000,
+                    "trackNumber": 30
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 31.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 31.mp3",
+                    "title": "Filler 31",
+                    "artist": "Aurora Field",
+                    "album": "Padding 4",
+                    "durationMs": 12000,
+                    "trackNumber": 31
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 32.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 32.mp3",
+                    "title": "Filler 32",
+                    "artist": "Sable",
+                    "album": "Padding 4",
+                    "durationMs": 12000,
+                    "trackNumber": 32
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 33.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 33.mp3",
+                    "title": "Filler 33",
+                    "artist": "Kite Ensemble",
+                    "album": "Padding 4",
+                    "durationMs": 12000,
+                    "trackNumber": 33
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 34.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 34.mp3",
+                    "title": "Filler 34",
+                    "artist": "Mono Lake",
+                    "album": "Padding 4",
+                    "durationMs": 12000,
+                    "trackNumber": 34
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 35.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 35.mp3",
+                    "title": "Filler 35",
+                    "artist": "Vacant Hours",
+                    "album": "Padding 4",
+                    "durationMs": 12000,
+                    "trackNumber": 35
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 36.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 36.mp3",
+                    "title": "Filler 36",
+                    "artist": "Aurora Field",
+                    "album": "Padding 4",
+                    "durationMs": 12000,
+                    "trackNumber": 36
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 37.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 37.mp3",
+                    "title": "Filler 37",
+                    "artist": "Sable",
+                    "album": "Padding 4",
+                    "durationMs": 12000,
+                    "trackNumber": 37
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 38.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 38.mp3",
+                    "title": "Filler 38",
+                    "artist": "Kite Ensemble",
+                    "album": "Padding 4",
+                    "durationMs": 12000,
+                    "trackNumber": 38
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 39.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 39.mp3",
+                    "title": "Filler 39",
+                    "artist": "Mono Lake",
+                    "album": "Padding 4",
+                    "durationMs": 12000,
+                    "trackNumber": 39
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 40.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 40.mp3",
+                    "title": "Filler 40",
+                    "artist": "Vacant Hours",
+                    "album": "Padding 4",
+                    "durationMs": 12000,
+                    "trackNumber": 40
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 41.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 41.mp3",
+                    "title": "Filler 41",
+                    "artist": "Aurora Field",
+                    "album": "Padding 5",
+                    "durationMs": 12000,
+                    "trackNumber": 41
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 42.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 42.mp3",
+                    "title": "Filler 42",
+                    "artist": "Sable",
+                    "album": "Padding 5",
+                    "durationMs": 12000,
+                    "trackNumber": 42
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 43.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 43.mp3",
+                    "title": "Filler 43",
+                    "artist": "Kite Ensemble",
+                    "album": "Padding 5",
+                    "durationMs": 12000,
+                    "trackNumber": 43
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 44.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 44.mp3",
+                    "title": "Filler 44",
+                    "artist": "Mono Lake",
+                    "album": "Padding 5",
+                    "durationMs": 12000,
+                    "trackNumber": 44
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 45.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 45.mp3",
+                    "title": "Filler 45",
+                    "artist": "Vacant Hours",
+                    "album": "Padding 5",
+                    "durationMs": 12000,
+                    "trackNumber": 45
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 46.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 46.mp3",
+                    "title": "Filler 46",
+                    "artist": "Aurora Field",
+                    "album": "Padding 5",
+                    "durationMs": 12000,
+                    "trackNumber": 46
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 47.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 47.mp3",
+                    "title": "Filler 47",
+                    "artist": "Sable",
+                    "album": "Padding 5",
+                    "durationMs": 12000,
+                    "trackNumber": 47
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 48.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 48.mp3",
+                    "title": "Filler 48",
+                    "artist": "Kite Ensemble",
+                    "album": "Padding 5",
+                    "durationMs": 12000,
+                    "trackNumber": 48
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 49.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 49.mp3",
+                    "title": "Filler 49",
+                    "artist": "Mono Lake",
+                    "album": "Padding 5",
+                    "durationMs": 12000,
+                    "trackNumber": 49
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 50.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 50.mp3",
+                    "title": "Filler 50",
+                    "artist": "Vacant Hours",
+                    "album": "Padding 5",
+                    "durationMs": 12000,
+                    "trackNumber": 50
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 51.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 51.mp3",
+                    "title": "Filler 51",
+                    "artist": "Aurora Field",
+                    "album": "Padding 6",
+                    "durationMs": 12000,
+                    "trackNumber": 51
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 52.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 52.mp3",
+                    "title": "Filler 52",
+                    "artist": "Sable",
+                    "album": "Padding 6",
+                    "durationMs": 12000,
+                    "trackNumber": 52
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 53.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 53.mp3",
+                    "title": "Filler 53",
+                    "artist": "Kite Ensemble",
+                    "album": "Padding 6",
+                    "durationMs": 12000,
+                    "trackNumber": 53
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 54.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 54.mp3",
+                    "title": "Filler 54",
+                    "artist": "Mono Lake",
+                    "album": "Padding 6",
+                    "durationMs": 12000,
+                    "trackNumber": 54
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 55.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 55.mp3",
+                    "title": "Filler 55",
+                    "artist": "Vacant Hours",
+                    "album": "Padding 6",
+                    "durationMs": 12000,
+                    "trackNumber": 55
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 56.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 56.mp3",
+                    "title": "Filler 56",
+                    "artist": "Aurora Field",
+                    "album": "Padding 6",
+                    "durationMs": 12000,
+                    "trackNumber": 56
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 57.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 57.mp3",
+                    "title": "Filler 57",
+                    "artist": "Sable",
+                    "album": "Padding 6",
+                    "durationMs": 12000,
+                    "trackNumber": 57
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 58.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 58.mp3",
+                    "title": "Filler 58",
+                    "artist": "Kite Ensemble",
+                    "album": "Padding 6",
+                    "durationMs": 12000,
+                    "trackNumber": 58
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 59.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 59.mp3",
+                    "title": "Filler 59",
+                    "artist": "Mono Lake",
+                    "album": "Padding 6",
+                    "durationMs": 12000,
+                    "trackNumber": 59
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 60.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 60.mp3",
+                    "title": "Filler 60",
+                    "artist": "Vacant Hours",
+                    "album": "Padding 6",
+                    "durationMs": 12000,
+                    "trackNumber": 60
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 61.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 61.mp3",
+                    "title": "Filler 61",
+                    "artist": "Aurora Field",
+                    "album": "Padding 7",
+                    "durationMs": 12000,
+                    "trackNumber": 61
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 62.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 62.mp3",
+                    "title": "Filler 62",
+                    "artist": "Sable",
+                    "album": "Padding 7",
+                    "durationMs": 12000,
+                    "trackNumber": 62
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 63.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 63.mp3",
+                    "title": "Filler 63",
+                    "artist": "Kite Ensemble",
+                    "album": "Padding 7",
+                    "durationMs": 12000,
+                    "trackNumber": 63
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 64.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 64.mp3",
+                    "title": "Filler 64",
+                    "artist": "Mono Lake",
+                    "album": "Padding 7",
+                    "durationMs": 12000,
+                    "trackNumber": 64
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 65.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 65.mp3",
+                    "title": "Filler 65",
+                    "artist": "Vacant Hours",
+                    "album": "Padding 7",
+                    "durationMs": 12000,
+                    "trackNumber": 65
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 66.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 66.mp3",
+                    "title": "Filler 66",
+                    "artist": "Aurora Field",
+                    "album": "Padding 7",
+                    "durationMs": 12000,
+                    "trackNumber": 66
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 67.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 67.mp3",
+                    "title": "Filler 67",
+                    "artist": "Sable",
+                    "album": "Padding 7",
+                    "durationMs": 12000,
+                    "trackNumber": 67
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 68.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Kite Ensemble - Filler 68.mp3",
+                    "title": "Filler 68",
+                    "artist": "Kite Ensemble",
+                    "album": "Padding 7",
+                    "durationMs": 12000,
+                    "trackNumber": 68
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 69.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Mono Lake - Filler 69.mp3",
+                    "title": "Filler 69",
+                    "artist": "Mono Lake",
+                    "album": "Padding 7",
+                    "durationMs": 12000,
+                    "trackNumber": 69
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 70.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Vacant Hours - Filler 70.mp3",
+                    "title": "Filler 70",
+                    "artist": "Vacant Hours",
+                    "album": "Padding 7",
+                    "durationMs": 12000,
+                    "trackNumber": 70
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 71.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Aurora Field - Filler 71.mp3",
+                    "title": "Filler 71",
+                    "artist": "Aurora Field",
+                    "album": "Padding 8",
+                    "durationMs": 12000,
+                    "trackNumber": 71
+                },
+                {
+                    "id": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 72.mp3",
+                    "path": "H:/_Programming/IDEA/ComposeMultiplatform/ComposeMediaPlayer/.workbuddy/cache/demo/library/media/Sable - Filler 72.mp3",
+                    "title": "Filler 72",
+                    "artist": "Sable",
+                    "album": "Padding 8",
+                    "durationMs": 12000,
+                    "trackNumber": 72
+                }
+            ],
+            "createdAt": 0
+        }
+    ],
+    "selectedPlaylistId": "pl-demo"
+}

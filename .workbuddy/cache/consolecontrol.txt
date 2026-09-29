@@ -1,0 +1,12 @@
+before: top-level=449
+this jvm pid=24400
+AllocConsole=true lastError=0
+GetConsoleWindow=0x2101b8
+IsWindowVisible=true
+after: top-level=452
+new top-level windows=3
+  NEW: ConsoleWindowClass pid=24400 visible=true hwnd=0x2101b8 title='D:\StudyAndWorking\JDK\bin\javaw.exe'
+  NEW: MSCTFIME UI pid=13724 visible=false hwnd=0x14077c title='MSCTFIME UI'
+  NEW: IME pid=13724 visible=false hwnd=0x130ca6 title='Default IME'
+
+-> detector works if a console window appears above

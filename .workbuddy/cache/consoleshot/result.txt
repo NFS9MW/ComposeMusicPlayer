@@ -1,0 +1,3 @@
+screen=1707x1067
+changedSamples=39755 of 454649 (8.7441%)
+childAlive=true

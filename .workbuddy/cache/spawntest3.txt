@@ -1,0 +1,6 @@
+jvm=javaw.exe pid=13232
+ffmpeg=H:\_Programming\IDEA\ComposeMultiplatform\ComposeMediaPlayer\third_party\ffmpeg\windows-x64\ffmpeg.exe
+childPid=14196
+childAlive=true
+state=HOLDING
+descendants=[H:\_Programming\IDEA\ComposeMultiplatform\ComposeMediaPlayer\third_party\ffmpeg\windows-x64\ffmpeg.exe#14196, C:\Windows\System32\conhost.exe#24880]

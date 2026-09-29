@@ -1,0 +1,28 @@
+*.iml
+.kotlin
+.gradle
+**/build/
+xcuserdata
+!src/**/build/
+local.properties
+.idea
+.DS_Store
+captures
+.externalNativeBuild
+.cxx
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
+node_modules/
+
+# Staged FFmpeg runtime. Around 160 MB per platform, fetched on demand by
+# scripts/fetch_ffmpeg.py and bundled into the installer at package time.
+/third_party/ffmpeg/*
+!/third_party/ffmpeg/.gitkeep
+
+# Throwaway verification programs and their downloaded dependencies.
+/prototype/out/
+/prototype/lib/
