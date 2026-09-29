@@ -4,6 +4,8 @@
 
 **[中文]** · [English ↓](#english)
 
+（纯Vibe Coding项目）
+
 面向 **Windows 与 Linux** 的本地音乐播放器，基于 Compose Multiplatform（JVM）。需要 **JDK 21** 或更新版本。
 
 ![](C:/Users/RHP/AppData/Roaming/marktext/images/2026-09-29-22-10-11-image.png)
@@ -171,6 +173,8 @@ Windows 版可以在同一台机器上交叉编译：`sudo dnf install mingw64-g
 # ComposeMusicPlayer (English)
 
 **[中文 ↑](#chinese)** · **[English]**
+
+（A completrly vibe coding project）
 
 A local music player for **Windows and Linux**, built on Compose Multiplatform (JVM). Needs **JDK 21** or newer.
 
